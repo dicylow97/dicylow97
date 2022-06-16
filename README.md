@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @dicylow97
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Brute-FB
 
-<!---
-dicylow97/dicylow97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+$pkg update && pkg upgrade
+
+$pkg install git python2
+
+$pip2 install mechanize requests bs4
+
+$git clone https://github.com/Egrak/Brute-FB.git
+
+$cd Brute-FB
+
+$python2 Brute-FB.py
